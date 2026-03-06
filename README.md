@@ -1,3 +1,5 @@
+![](work_gif.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on a project at TIH, IITG<br>👯 I’m looking to collaborate on embedded firmware and also embedded linux<br>🤝 I’m looking for help with internships and jobs<br>🌱 I’m currently learning RTOS, computer architecture and diving deeper into embedded systems<br>💬 Ask me about tech and cricket too!<br>⚡ Fun fact- I can patiently handle any situation!
 
